@@ -31,6 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript logo"  />
   </a>
   <img width="20" />
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://svgshare.com/i/14p2.svg" height="56" alt="rust logo"  />
+  </a>
+  <img width="20" />
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
   </a>
