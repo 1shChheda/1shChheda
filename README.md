@@ -23,49 +23,93 @@
 ###
 
 <div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo"  />
+   </a>
   <img width="20" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript logo"  />
+  </a>
   <img width="20" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
+  </a>
   <img width="20" />
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="52" alt="c logo"  />
+  </a>
   <img width="20" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="html5 logo"  />
+    </a>
   <img width="20" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="css3 logo"  />
+  </a>
   <img width="20" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="react logo"  />
+  </a>
   <img width="20" />
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs logo"  />
+    </a>
   <img width="20" />
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="52" alt="express logo"  />
+    </a>
   <img width="20" />
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="52" alt="tailwindcss logo"  />
+      </a>
   <img width="20" />
+      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="52" alt="flask logo"  />
+      </a>
   <img width="20" />
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="52" alt="mongodb logo"  />
+      </a>
   <img width="20" />
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" alt="firebase logo"  />
+      </a>
   <img width="20" />
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" alt="mysql logo"  />
+      </a>
   <img width="20" />
+      <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="52" alt="sequelize logo"  />
+      </a>
   <img width="20" />
+      <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
   <img src="https://svgshare.com/i/14pD.svg" height="52" alt="xampp logo"  />
+      </a>
     <img width="20" />
+  <a href="https://www.postman.com/" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="52" alt="postman logo"  />
+      </a>
     <img width="20" />
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
   <img src="https://svgshare.com/i/14qZ.svg" height="52" alt="restapi logo"  />
+      </a>
     <img width="20" />
-  <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" height="52" alt="restapi logo"  />
+    <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" height="52" alt="ros logo"  />
+      </a>
     <img width="20" />
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo"  />
+      </a>
     <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="52" alt="git logo"  />
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="52" alt="gitlab logo"  />
+      </a>
     <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="restapi logo"  />
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo"  />
+      </a>
 </div>
 
 ###
@@ -85,6 +129,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1shChheda/1shChheda/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1shChheda&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 ###
