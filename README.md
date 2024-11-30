@@ -27,16 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo"  />
    </a>
   <img width="20" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo"  />
+  </a>
+  <img width="20" />
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript logo"  />
   </a>
   <img width="20" />
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-  <img src="https://svgshare.com/i/14p2.svg" height="56" alt="rust logo"  />
-  </a>
-  <img width="20" />
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="52" alt="rust logo"  />
   </a>
   <img width="20" />
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
@@ -64,11 +64,15 @@
     </a>
   <img width="20" />
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="52" alt="tailwindcss logo"  />
       </a>
   <img width="20" />
       <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="52" alt="flask logo"  />
+      </a>
+  <img width="20" />
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="52" alt="scikit logo"  />
       </a>
   <img width="20" />
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -88,7 +92,7 @@
       </a>
   <img width="20" />
       <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
-  <img src="https://svgshare.com/i/14pD.svg" height="52" alt="xampp logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="52" alt="xampp logo"  />
       </a>
     <img width="20" />
   <a href="https://www.postman.com/" rel="noreferrer">
@@ -96,7 +100,7 @@
       </a>
     <img width="20" />
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-  <img src="https://svgshare.com/i/14qZ.svg" height="52" alt="restapi logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" height="52" alt="restapi logo"  />
       </a>
     <img width="20" />
     <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
